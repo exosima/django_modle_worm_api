@@ -18,7 +18,8 @@ class get_model() :
 #    from urlworm import models
     def get_models_object() :
         pass
-        #这个获取model对象的函数重写def hh() :
+        #这个获取model对象的函数重写
+        #def get_models_object() :
         #import apps.models
         #return apps.models这个是例子
 
